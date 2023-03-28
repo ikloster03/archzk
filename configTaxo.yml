@@ -8,19 +8,19 @@ taxonomies:
 
 privacy:
   vimeo:
-    disabled: false
+    disabled: true
     simple: true
 
   twitter:
-    disabled: false
+    disabled: true
     enableDNT: true
     simple: true
     disableInlineCSS: true
 
   instagram:
-    disabled: false
+    disabled: true
     simple: true
 
   youtube:
-    disabled: false
+    disabled: true
     privacyEnhanced: true

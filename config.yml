@@ -79,13 +79,13 @@ params:
   homeInfoParams:
     Title: "PaperMod"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
+      Всем привет!
 
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      Это мой публичный Zettelkasten. В нем я собираю знания по архитектуре и из различных ИТ областей.
 
-      - Do give a 🌟 on Github !
+      - Моя цель - разобраться в этом предмете, углубить свои знания и отточить навыки. 
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      - Мой гитхаб [@ikloster03](https://github.com/ikloster03).
 
   socialIcons:
     - name: github
