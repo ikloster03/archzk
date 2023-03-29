@@ -37,7 +37,7 @@ languages:
           url: tags/
           weight: 10
         - name: Github
-          url: https://github.com/ikloster03
+          url: https://github.com/ikloster03/archzk
 outputs:
   home:
     - HTML
@@ -143,20 +143,20 @@ markup:
 
 privacy:
   vimeo:
-    disabled: false
+    disabled: true
     simple: true
 
   twitter:
-    disabled: false
+    disabled: true
     enableDNT: true
     simple: true
 
   instagram:
-    disabled: false
+    disabled: true
     simple: true
 
   youtube:
-    disabled: false
+    disabled: true
     privacyEnhanced: true
 
 services:
