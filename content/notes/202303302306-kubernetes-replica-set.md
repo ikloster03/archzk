@@ -9,7 +9,9 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
-ReplicaSet - это следующее поколение Replication Controller. Единственная разница между ReplicaSet и Replication Controller - это поддержка селектора. ReplicaSet поддерживает множественный выбор в селекторе, тогда как Replication Controller поддерживает в селекторе только выбор на основе равенства.
+[<- Назад]({{< ref "202303282153-kubernetes" >}})
+
+__ReplicaSet__ - это следующее поколение Replication Controller. Единственная разница между ReplicaSet и Replication Controller - это поддержка селектора. ReplicaSet поддерживает множественный выбор в селекторе, тогда как Replication Controller поддерживает в селекторе только выбор на основе равенства.
 
 Replica set позволяет масштабировать поды по заданной схеме
 
