@@ -2,14 +2,12 @@
 
 title: "Kubernetes Deployment"
 date: 2023-03-30T23:11:19+03:00
-description: ""
+description: "Разбираюсь в Deployment k8s"
 tags: ["k8s", "deployment"]
 ShowToc: true
 ShowBreadCrumbs: true
 draft: false
 ---
-
-[<- Назад]({{< ref "202303282153-kubernetes" >}})
 
 __Развёртывание (Deployment)__ — это абстракция Kubernetes, которая позволяют нам управлять тем, что всегда присутствует в жизненном цикле приложения
 

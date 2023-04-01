@@ -2,14 +2,12 @@
 
 title: "Kubernetes Resources"
 date: 2023-03-30T23:44:27+03:00
-description: ""
+description: "Ресурсы в k8s"
 tags: ["k8s", "resources"]
 ShowToc: true
 ShowBreadCrumbs: true
 draft: false
 ---
-
-[<- Назад]({{< ref "202303282153-kubernetes" >}})
 
 Чтобы Kubernetes смог максимально эффективно использовать доступную инфраструктуру и корректно выделить ресурсы, необходимые для работы вашего приложения, вам следует указать требования в ресурсам каждого контейнера.
 

@@ -2,14 +2,12 @@
 
 title: "Kubernetes Replica Set"
 date: 2023-03-30T23:06:05+03:00
-description: ""
+description: "Немного о ReplicaSet в k8s"
 tags: ["k8s", "replica-set"]
 ShowToc: true
 ShowBreadCrumbs: true
 draft: false
 ---
-
-[<- Назад]({{< ref "202303282153-kubernetes" >}})
 
 __ReplicaSet__ - это следующее поколение Replication Controller. Единственная разница между ReplicaSet и Replication Controller - это поддержка селектора. ReplicaSet поддерживает множественный выбор в селекторе, тогда как Replication Controller поддерживает в селекторе только выбор на основе равенства.
 

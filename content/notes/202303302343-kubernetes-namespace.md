@@ -2,14 +2,12 @@
 
 title: "Kubernetes Namespace"
 date: 2023-03-30T23:43:39+03:00
-description: ""
+description: "Что такое namespaces в k8s"
 tags: ["k8s", "namespace"]
 ShowToc: true
 ShowBreadCrumbs: true
 draft: false
 ---
-
-[<- Назад]({{< ref "202303282153-kubernetes" >}})
 
 __Пространства имён__ — это способ разделения ресурсов кластера между несколькими пользователями (с помощью квоты ресурсов).
 

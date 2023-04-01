@@ -8,8 +8,6 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
-[<- Назад]({{< ref "202303282153-kubernetes" >}})
-
 __Pod__ - это абстрактный объект k8s
 
 Внутри pod’а всегда существует 2 контейнера: 1 наш container , 2 container POD (нужен для создания сети контейнеров, Network namespace, проверить этот факт????)

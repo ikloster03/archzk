@@ -8,8 +8,6 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
-[<- Назад]({{< ref "202303292044-architecture" >}})
-
 [Scaled Agile Framework](https://scaledagileframework.com) (SAFe) - это гибкий фреймворк для разработки ПО, позволяющий использовать agile методологии в больших командах (> 50 человек).
 
 [Статья с хабра](https://habr.com/ru/post/433934/)
