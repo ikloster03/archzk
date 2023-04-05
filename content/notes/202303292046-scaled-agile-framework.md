@@ -12,7 +12,7 @@ draft: false
 
 [Статья с хабра](https://habr.com/ru/post/433934/)
 
-![safe full](/safe-full.png)
+![safe full](/img/safe/safe-full.png)
 
 SAFe — это слоеный пирог из различных методик Agile.
 
